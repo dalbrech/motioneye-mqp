@@ -1,3 +1,4 @@
+sudo apt update -y
 sudo apt-get update -y
 sudo apt-get upgrade -y
 sudo apt-get install -y ffmpeg libmariadb3 libpq5 libmicrohttpd12
